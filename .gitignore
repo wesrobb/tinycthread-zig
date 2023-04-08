@@ -6,3 +6,5 @@
 /test/test
 /test/hello.exe
 /test/test.exe
+zig-out/
+zig-cache/
